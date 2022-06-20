@@ -1,5 +1,5 @@
 # PyPassword
-A python-based password manager
+A Python-based password manager
 
 * * *
 
