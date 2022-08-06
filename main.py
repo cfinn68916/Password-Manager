@@ -1,3 +1,4 @@
+#!/bin/python
 import hashlib
 import json
 import os
